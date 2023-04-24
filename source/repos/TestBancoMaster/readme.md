@@ -30,8 +30,8 @@ Após essa execução é esperado que todos os testes fiquem com o icone verde d
 Precionar a teclar F5 ou clicar em Iniciar no menu superior.
 Realizar a criação do arquivo rotas.csv em diretório local, o arquivo deve ser criado no padrão, origem,destino,valor passando diretamente os valores sem cabeçalho conforme exemplo enviado:
 
+| GRU,BRC,10  |
 | :---         |
-| GRU,BRC,10  | 
 | BRC,SCL,5    | 
 | GRU,CDG,75   | 
 | GRU,SCL,20   | 

@@ -1,0 +1,17 @@
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\bin\Debug\net6.0\TestBancoMaster.Services.deps.json
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\bin\Debug\net6.0\TestBancoMaster.Services.dll
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\bin\Debug\net6.0\TestBancoMaster.Services.pdb
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\bin\Debug\net6.0\TestBancoMaster.DomainModel.dll
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\bin\Debug\net6.0\TestBancoMaster.Infra.dll
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\bin\Debug\net6.0\TestBancoMaster.DomainModel.pdb
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\bin\Debug\net6.0\TestBancoMaster.Infra.pdb
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\TestBancoMaster.Services.csproj.AssemblyReference.cache
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\TestBancoMaster.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\TestBancoMaster.Services.AssemblyInfoInputs.cache
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\TestBancoMaster.Services.AssemblyInfo.cs
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\TestBancoMaster.Services.csproj.CoreCompileInputs.cache
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\TestBancoMaster.Services.csproj.CopyComplete
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\TestBancoMaster.Services.dll
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\refint\TestBancoMaster.Services.dll
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\TestBancoMaster.Services.pdb
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.Services\obj\Debug\net6.0\ref\TestBancoMaster.Services.dll

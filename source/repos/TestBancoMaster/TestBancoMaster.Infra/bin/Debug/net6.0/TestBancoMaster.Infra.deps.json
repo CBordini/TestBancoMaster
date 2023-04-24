@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestBancoMaster.Infra/1.0.0": {
+        "dependencies": {
+          "TestBancoMaster.DomainModel": "1.0.0"
+        },
+        "runtime": {
+          "TestBancoMaster.Infra.dll": {}
+        }
+      },
+      "TestBancoMaster.DomainModel/1.0.0": {
+        "runtime": {
+          "TestBancoMaster.DomainModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestBancoMaster.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestBancoMaster.DomainModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

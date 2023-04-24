@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "7xD7KflvCvZDFJc1KoPOE73M+nvOo/u2TyxdvyTibPU=",
+  "Source": "TestBancoMaster.Api",
+  "BasePath": "_content/TestBancoMaster.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestBancoMaster.Api\\wwwroot",
+      "Source": "TestBancoMaster.Api",
+      "ContentRoot": "C:\\Users\\ka_fa\\source\\repos\\TestBancoMaster\\TestBancoMaster.Api\\wwwroot\\",
+      "BasePath": "_content/TestBancoMaster.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ka_fa\\source\\repos\\TestBancoMaster\\TestBancoMaster.Api\\wwwroot\\rotas.csv",
+      "SourceId": "TestBancoMaster.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ka_fa\\source\\repos\\TestBancoMaster\\TestBancoMaster.Api\\wwwroot\\",
+      "BasePath": "_content/TestBancoMaster.Api",
+      "RelativePath": "rotas.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\rotas.csv"
+    }
+  ]
+}

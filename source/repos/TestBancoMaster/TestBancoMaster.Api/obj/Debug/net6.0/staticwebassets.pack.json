@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ka_fa\\source\\repos\\TestBancoMaster\\TestBancoMaster.Api\\wwwroot\\rotas.csv",
+      "PackagePath": "staticwebassets\\rotas.csv"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TestBancoMaster.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TestBancoMaster.Api.props",
+      "PackagePath": "build\\TestBancoMaster.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TestBancoMaster.Api.props",
+      "PackagePath": "buildMultiTargeting\\TestBancoMaster.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TestBancoMaster.Api.props",
+      "PackagePath": "buildTransitive\\TestBancoMaster.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

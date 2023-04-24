@@ -1,0 +1,12 @@
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\bin\Debug\net6.0\TestBancoMaster.DomainModel.deps.json
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\bin\Debug\net6.0\TestBancoMaster.DomainModel.dll
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\bin\Debug\net6.0\TestBancoMaster.DomainModel.pdb
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\TestBancoMaster.DomainModel.csproj.AssemblyReference.cache
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\TestBancoMaster.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\TestBancoMaster.DomainModel.AssemblyInfoInputs.cache
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\TestBancoMaster.DomainModel.AssemblyInfo.cs
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\TestBancoMaster.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\TestBancoMaster.DomainModel.dll
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\refint\TestBancoMaster.DomainModel.dll
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\TestBancoMaster.DomainModel.pdb
+C:\Users\ka_fa\source\repos\TestBancoMaster\TestBancoMaster.DomainModel\obj\Debug\net6.0\ref\TestBancoMaster.DomainModel.dll

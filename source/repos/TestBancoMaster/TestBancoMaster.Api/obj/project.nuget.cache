@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P0mIHCmYSnCDFskytw+YbdYonpgsA4TOIUHiWNiYGu5/iR1O5RoTLwOpIuDT8zLgLmmNNk7LcDCk8pYxTmyfRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ka_fa\\source\\repos\\TestBancoMaster\\TestBancoMaster.Api\\TestBancoMaster.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ka_fa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ka_fa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ka_fa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ka_fa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

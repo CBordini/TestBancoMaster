@@ -1,6 +1,6 @@
 # Orientações
 ## Clone
-Clonar [repositório](https://github.com/) para maquina local.
+Clonar [repositório](https://github.com/CBordini/TestBancoMaster.git) para maquina local.
 
 ## Build
 ### Após o clone  caso necessário.
@@ -23,20 +23,22 @@ Após essa execução é esperado que todos os testes fiquem com o icone verde d
 ## Executando a aplicação
 ### Após a execução dos teste, executar a aplicação seguindo os seguintes passos.
 #### Caso a solução "TestBancoMaster" não estiver selecionado, seguir os seguintes passos:
-1. Clicar com o botão direito na Solução "TestBancoMaster".
-2. Em Propriedades comens na aba "Projeto de Inicialização" selecionar a opção "Varios projetos de inicialização".
-3. Selecionar a opção "Iniciar" na coluna "Ação" nos projetos "TestBancoMaster.ConsoleApp" e "TestBancoMaster.Api" .
+1. Clicar com o botão direito na Solução "TestBancoMaster" depois em "Configurar Projetos de Inicialização..." .
+2. Em "Propriedades comuns" na aba "Projeto de Inicialização" selecionar a opção "Varios projetos de inicialização".
+3. Selecionar a opção "Iniciar" na coluna "Ação" nos projetos "TestBancoMaster.ConsoleApp" e "TestBancoMaster.Api", clicar em "Aplicar" e depois em "OK".
 #### Após a verificação, seguir os seguites passos:
 Precionar a teclar F5 ou clicar em Iniciar no menu superior.
 Realizar a criação do arquivo rotas.csv em diretório local, o arquivo deve ser criado no padrão, origem,destino,valor passando diretamente os valores sem cabeçalho conforme exemplo enviado:
 
-GRU,BRC,10
-BRC,SCL,5
-GRU,CDG,75
-GRU,SCL,20
-GRU,ORL,56
-ORL,CDG,5
-SCL,ORL,20
+| :---         |
+| GRU,BRC,10  | 
+| BRC,SCL,5    | 
+| GRU,CDG,75   | 
+| GRU,SCL,20   | 
+| GRU,ORL,56   | 
+| ORL,CDG,5   | 
+| SCL,ORL,20    | 
+
 
 Ao dar inicio na aplicação ambas aplicações(console App e Api Rest) serão iniciadas simutaneamente.
 
@@ -75,19 +77,6 @@ Essa camada pode ser considerada o core da aplicação, aonde possui todas as cl
 Projeto contendo repositorio que realiza a leitura e escrita no arquivo csv.
 ### 06-Tests	
 Projeto de tests unitarios.
-
-# Sobre o projeto
-## Arquitetura
-Tentei implementar uma aquitetura simples utilizando DDD e TDD, utilizando inversão de dependência e segregação de interface.\
-Dividimos nossa aplicação de 3 camadas principais: Application, Domain, Infrastucture.
-### Application
-Tem como finalidade fazer a intermediação entre o usuário e o sistema.
-### Infrastucture
-Tem como finalidade manter os repositório, serviços de Cross Cutting, e Anti Corruption.
-### Domain	
-Essa camada pode ser considerada o core da aplicação, aonde possui todas as classes, interfaces e serviços.
-## Tests
-A camada de teste tem como finalidade fazer os teste de dominio, e validar regras de negócios para que o fluxo da aplicação aconteça normalmente, caso exista uma modificação em alguma classe core.
 
 # Design Adotadas para a solução
 Foi realizado uma modelagem baseada no DDD(Domain Driven Design) dividindo as responsabilidades em camadas, utilizando boas praticas de desenvolvimento e os pricipios do SOLID,utilizando inversão de dependência e segregação de interface.
